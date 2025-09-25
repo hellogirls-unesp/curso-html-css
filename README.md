@@ -1,6 +1,6 @@
-#💻 "Hello, Girls!" - Curso Introdutório de HTML e CSS
+# 💻 "Hello, Girls!" - Curso Introdutório de HTML e CSS
 
-##Repositório oficial do curso introdutório de HTML e CSS do projeto de extensão da UNESP Bauru - "Hello, Girls!".
+## Repositório oficial do curso introdutório de HTML e CSS do projeto de extensão da UNESP Bauru - "Hello, Girls!".
 
 📂 O que você encontrará aqui
 
