@@ -1,2 +1,2 @@
-# curso-html-css
-Repositório do curso Introdutório de HTML e CSS do projeto.
+# Curso de HTML e CSS
+Repositório do curso Introdutório de HTML e CSS do projeto de extensão da UNESP Bauru **"Hello, Girls!"**.
