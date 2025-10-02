@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testando imagens</title>
+    <link rel="shortcut icon" href="Imagens/Computador_Icone.png" type="image/x-icon">
+</head>
+
+<body>
+    <h1>Minhas imagens: </h1>
+    <img src="Imagens/Computador.jpg" alt="Imagem de um computador" width="600" height="400">
+    <img src="Imagens/Computador.webp.webp" alt="Imagem de um Computador Webp" width="600" height="400">
+
+    <picture>
+        <source media="(max-width: 700px)" srcset="Imagens/ImagemP.png" type="image/png">
+        <source media="(max-width: 1000px)" srcset="Imagens/ImagemM.png" type="image/png">
+        <img src="Imagens/ImagemG.png" alt="Imagem Grande">
+    </picture>
+
+</body>
+</html>
