@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+ }
+
+ .topo{
+    background-color: rgba(143, 215, 235, 0.989);
+    padding: 40px;
+    text-align: center;
+ }
+
+ .menu{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: block;
+    padding: 20px;
+ }
+
+ .menu p{
+    display: inline;
+    padding: 35px;
+ }
+
+ .cards1{
+    background-color: rgb(213, 229, 244);
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+ }
+
+ .cards2{
+    background-color: rgb(200, 200, 239);
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+ }
+
+ .cards3{
+    background-color: rgb(158, 158, 228);
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+ }
+
+ .subtitulo{
+    padding: 15px;
+    text-align: center;
+ }
+
+ .itens{
+    color: black;
+ }
+
+ .botao{
+    padding: 10px;
+    text-align: center;
+ }
