@@ -72,3 +72,16 @@
     padding: 10px;
     text-align: center;
  }
+
+ audio{
+   margin: 20px;
+ }
+
+ video{
+   display: block;
+   margin: 10px;
+ }
+
+ iframe{
+   margin: 10px;
+ }
